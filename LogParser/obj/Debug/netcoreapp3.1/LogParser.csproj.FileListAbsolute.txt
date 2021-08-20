@@ -1,0 +1,15 @@
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\LogParser.exe
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\LogParser.deps.json
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\LogParser.runtimeconfig.json
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\LogParser.runtimeconfig.dev.json
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\LogParser.dll
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\LogParser.pdb
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.AssemblyInfoInputs.cache
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.AssemblyInfo.cs
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.csproj.CoreCompileInputs.cache
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.dll
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.pdb
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.genruntimeconfig.cache
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.csprojAssemblyReference.cache
+D:\DEV\Visual Sudio Projects\LogParser\LogParser\obj\Debug\netcoreapp3.1\LogParser.csproj.CopyComplete

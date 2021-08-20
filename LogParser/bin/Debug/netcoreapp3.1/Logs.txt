@@ -1,0 +1,48 @@
+URL: reg.ru
+Username: utest
+Password: ptest
+========================================
+URL: aws.com
+Username: utest2
+Password: ptest3
+========================================
+URL: reg.ru
+Username: utest
+Password: ptest
+========================================
+URL: aws.com
+Username: utest2
+Password: ptest3
+========================================
+URL: reg.ru
+Username: utest
+Password: ptest
+========================================
+URL: aws.com
+Username: utest2
+Password: ptest3
+========================================
+URL: reg.ru
+Username: utest
+Password: ptest
+========================================
+URL: aws.com
+Username: utest2
+Password: ptest3
+========================================
+URL: reg.ru
+Username: utest
+Password: ptest
+========================================
+URL: aws.com
+Username: utest2
+Password: ptest3
+========================================
+URL: reg.ru
+Username: utest
+Password: ptest
+========================================
+URL: aws.com
+Username: utest2
+Password: ptest3
+========================================
